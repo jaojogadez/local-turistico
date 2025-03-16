@@ -2,6 +2,10 @@
 
 Desafio prático opcional da formação Full Stack de HTML e CSS da Rocketseat.
 
+![Projeto  - Local Turístico](https://github.com/user-attachments/assets/0b1bf812-4e49-4b3c-a40b-8f6869b7b53c)
+
+🔗 Acesse o projeto: [https://jaojogadez.github.io/local-turistico/]
+
 ## 🌍 Sobre o Projeto
 
 Este projeto é uma página simples que apresenta atrações turísticas em **Busan, Coreia do Sul**. Ele fornece informações sobre a cidade e destaca três destinos históricos imperdíveis. Criado como parte do desafio opcional da formação Full Stack da Rocketseat.
